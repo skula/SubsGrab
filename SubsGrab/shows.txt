@@ -1,0 +1,10 @@
+Awkward;awkward;Awkward
+//Bones;bones;Bones
+//Californication;californication;Californication
+Downton Abbey;downton-abbey;Downton Abbey
+Game Of Thrones;gameofthrones;GOT
+Hart of Dixie;hart-of-dixie;Hart of Dixie
+//How I Met Your Mother;himym;HIMYM
+Once Upon A Time;once-upon-a-time-2011;OUAT
+//Pretty Little Liars;prettylittleliars;PLL
+The Big Bang Theory;bigbangtheory;TBBT
